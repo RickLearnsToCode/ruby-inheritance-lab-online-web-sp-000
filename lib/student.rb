@@ -1,4 +1,5 @@
-require '../lib/user.rb'
+'./user.rb'
+
 
 class Student < User
 
